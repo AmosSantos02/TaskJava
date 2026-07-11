@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+package tarefas;
 
-public class Prioridade {
-}
+public enum Prioridade{ALTA, MÉDIA,BAIXA}
